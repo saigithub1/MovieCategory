@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "apalya-test"
+    }
+  },
+  "defaultProject": "apalya-test",
+  "cli": {
+    "analytics": "b8e7bbc8-5010-4c99-a893-d8755abb30cd"
+  }
 }
